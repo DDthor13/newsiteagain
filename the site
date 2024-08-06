@@ -1,10 +1,12 @@
-print('Welcome traveler')
-
-
-print('you have found my website')
-
-
-print('i am new to coding')
-
-
-print('more to come?')
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome Traveler</title>
+</head>
+<body>
+    <p>Welcome traveler</p>
+    <p>You have found my website</p>
+    <p>I am new to coding</p>
+    <p>More to come?</p>
+</body>
+</html>
